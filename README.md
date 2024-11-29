@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=98FB98&section=header&height=130&text=👋%20Welcome%20to%20JongHyun's%20Github%20Page&fontSize=30&animation=fadeIn)
 
-## 💻 Work
+## 💻 Experience
   - <strong>Dneuro, Quant Solution Team | 2023.01 ~ Current</strong>
     - Backend Develop
     - Database Engineer
@@ -8,7 +8,11 @@
   - <strong>HR Asset Management, Operation Team | 2019.04 ~ 2021.07</strong>
     - Backend Develop
     - Quant Research & Develop
-   
+  - <strong>Hankuk University of Foriegn Studies</strong>
+    - Major : Industrial Management Engineering
+
+
+
       
 ## ⚡Skills
 
