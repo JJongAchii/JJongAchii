@@ -14,7 +14,7 @@
 
 
       
-## ⚡Skills
+## ⚡Interest
 
 ![Python](http://img.shields.io/badge/-Python-3566ab?style=flat&logo=Python&logoColor=white)
 ![Javascript](http://img.shields.io/badge/-Javascript-f7df1e?style=flat&logo=Javascript&logoColor=white)
