@@ -8,7 +8,7 @@
   - <strong>HR Asset Management, Operation Team | 2019.04 ~ 2021.07</strong>
     - Backend Develop
     - Quant Research & Develop
-  - <strong>Hankuk University of Foriegn Studies</strong>
+  - <strong>Hankuk University of Foriegn Studies | 2012.03 ~ 2020.02</strong>
     - Major : Industrial Management Engineering
 
 
