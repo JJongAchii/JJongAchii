@@ -3,7 +3,7 @@
 ## 💻 Experiences
   - <strong>Dneuro, Quant Solution Team | 2023.01 ~ Current</strong>
     - Backend Develop
-    - Database Engineer
+    - Data Engineering
     - Strategies Develop
   - <strong>HR Asset Management, Operation Team | 2019.04 ~ 2021.07</strong>
     - Backend Develop
